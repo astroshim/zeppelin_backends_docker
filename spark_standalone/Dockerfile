@@ -1,5 +1,5 @@
 FROM centos:centos6
-MAINTAINER astroshim <hsshim@nflabs.com>
+MAINTAINER hsshim <hsshim@nflabs.com>
 
 ENV SPARK_PROFILE 1.6
 ENV SPARK_VERSION 1.6.2
